@@ -1,4 +1,5 @@
 require "str_zbyers/version"
+require "str_zbyers/greetings"
 
 module StrZbyers
 
